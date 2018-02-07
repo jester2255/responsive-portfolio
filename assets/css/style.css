@@ -156,6 +156,13 @@ h3,
   border: 1px solid #ddd;
 }
 
+#education{
+  float: right;
+}
+#hobbies{
+  float: left;
+
+}
 /* portfolio page */
 
 .work {
