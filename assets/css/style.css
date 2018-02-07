@@ -161,7 +161,19 @@ h3,
 }
 #hobbies{
   float: left;
+}
 
+.A{
+  list-style-type:disc;
+}
+.B{
+  list-style-type: circle;
+   margin: 0% 0% 0% 2%;
+}
+
+.C{
+  list-style-type: disc;
+  margin: 0 0 0 2%;
 }
 /* portfolio page */
 
