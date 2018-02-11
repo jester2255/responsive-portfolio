@@ -1,5 +1,5 @@
 $("#button").click(function(){
-	alert("Your Message has been submitted")
+	alert("Thanks for submitting your feedback")
 })
 
 // $("p").click(function(){
