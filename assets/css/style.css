@@ -175,8 +175,8 @@ h3,
   list-style-type: disc;
   margin: 0 0 0 2%;
 }
-/* portfolio page */
 
+/* portfolio page */
 .work {
   position: relative;
   float: left;
@@ -215,6 +215,24 @@ h3,
   height: auto;
   margin-top: 10px;
   margin-right: 25px;
+}
+
+
+#hang{
+  color: white;
+}
+
+#dev{
+  color: white;
+}
+#triv{
+  color: white;
+}
+#personal{
+  color: white;
+}
+#res{
+  color: white;
 }
 
 /* contact page */
